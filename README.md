@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep Pradhan</h1>
-<h3 align="center">Dedicated Full Stack Web developer actively learning AI/ML to build intelligent applications. From Odisha, India.</h3>
+<h3 align="center">Dedicated CS Undergrad actively learning AI/ML to build intelligent applications. From Odisha, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeeep2006&label=Profile%20views&color=0e75b6&style=flat" alt="sandeeep2006" /> </p>
 
